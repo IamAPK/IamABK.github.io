@@ -1,4 +1,4 @@
-http://iamzbk.github.io/tags/
+http://iamzbk.github.io/categories/
 http://iamzbk.github.io/2022/08/03/hello-world/
 http://iamzbk.github.io/2022/08/04/article-title/
 http://iamzbk.github.io/
