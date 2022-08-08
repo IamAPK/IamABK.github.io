@@ -24,7 +24,7 @@ canvas:not(#ribbon-canvas), #web_bg {
     height: 100%;
 }
 body {
-    font-family: CascadiaCodePL, "Segoe UI", "Helvetica Neue", Lato, Roboto, "PingFang SC", "STZhongsong", "Lantinghei SC", sans-serif
+    font-family: CascadiaCodePL
 }
 @font-face {
     font-family: 'CascadiaCodePL';
