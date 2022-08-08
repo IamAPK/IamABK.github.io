@@ -24,12 +24,11 @@ canvas:not(#ribbon-canvas), #web_bg {
     height: 100%;
 }
 body {
-    font-family: CascadiaCodePL
+    font-family: "STXinwei"
 }
 @font-face {
-    font-family: 'CascadiaCodePL';
-    font-display: swap;
-    src: url('https://gitee.com/iamzbk/IamZBK.github.io/blob/master/fonts/Regular.ttf') format("Truetype");
+    font-family: 'sleek';
+    src: url('https://cdn.jsdelivr.net/gh/lete114/CDN2/zaxiang/sleek.woff2');
 }
 /* 页脚透明 */
 #footer{
