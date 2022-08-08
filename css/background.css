@@ -14,6 +14,36 @@
   background: transparent!important;
 }
 
-#footer:before {
+/* #footer:before {
     background-color: rgba(0, 0, 0, 0);
+} */
+canvas:not(#ribbon-canvas), #web_bg {
+    /* margin-bottom: -10rem; */
+    display: block;
+    width: 100%;
+    height: 100%;
 }
+body {
+    font-family: CascadiaCodePL,-apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Lato, Roboto, "PingFang SC", "STZhongsong", "Lantinghei SC", sans-serif
+}
+@font-face {
+    font-family: 'CascadiaCodePL';
+    font-display: swap;
+    src: url('/fonts/Regular.ttf') format("Truetype");
+    font-size: xx-large;
+}
+/* 页脚透明 */
+#footer{
+    background: transparent!important;
+}
+  /* 头图透明 */
+  /*top-img黑色透明玻璃效果移除，不建议加，除非你执着于完全一图流或者背景图对比色明显 */
+#page-header.post-bg:before {
+    background-color: transparent!important;
+}
+  /*夜间模式伪类遮罩层透明*/
+[data-theme="dark"]
+#footer::before{
+    background: transparent!important;
+}
+  
