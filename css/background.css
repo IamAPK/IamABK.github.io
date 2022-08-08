@@ -29,7 +29,7 @@ body {
 @font-face {
     font-family: 'CascadiaCodePL';
     font-display: swap;
-    src: url('/fonts/Regular.ttf') format("Truetype");
+    src: url('https://gitee.com/iamzbk/IamZBK.github.io/blob/master/fonts/Regular.ttf') format("Truetype");
 }
 /* 页脚透明 */
 #footer{
