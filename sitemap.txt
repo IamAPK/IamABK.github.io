@@ -1,3 +1,5 @@
+http://iamzbk.github.io/2022/08/11/Segment-Tree/
+http://iamzbk.github.io/2022/08/08/Balance-Tree/
 http://iamzbk.github.io/about/
 http://iamzbk.github.io/link/
 http://iamzbk.github.io/categories/
