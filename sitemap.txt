@@ -1,8 +1,12 @@
-http://iamzbk.github.io/2022/08/14/MST/
 http://iamzbk.github.io/2022/08/11/Segment-Tree/
+http://iamzbk.github.io/2022/08/14/MST/
+http://iamzbk.github.io/tags/
 http://iamzbk.github.io/about/
 http://iamzbk.github.io/link/
 http://iamzbk.github.io/categories/
 http://iamzbk.github.io/2022/08/03/hello-world/
 http://iamzbk.github.io/2022/08/04/article-title/
 http://iamzbk.github.io/
+http://iamzbk.github.io/tags/OI/
+http://iamzbk.github.io/tags/%E7%AE%97%E6%B3%95/
+http://iamzbk.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/
