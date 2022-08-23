@@ -1,5 +1,5 @@
-http://iamzbk.github.io/2022/08/11/Segment-Tree/
 http://iamzbk.github.io/2022/08/14/MST/
+http://iamzbk.github.io/2022/08/11/Segment-Tree/
 http://iamzbk.github.io/tags/
 http://iamzbk.github.io/about/
 http://iamzbk.github.io/link/
